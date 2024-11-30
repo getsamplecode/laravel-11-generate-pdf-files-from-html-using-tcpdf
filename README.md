@@ -1,7 +1,6 @@
 # Laravel 11 TCPDF : Generating PDF Files From Html Using TCPDF
 How to Generate PDF Using TCPDF in Laravel 11
     PDF is one of the most commonly used document formats today. Most web applications include a feature to generate PDFs for invoices, receipts, reports, and more. 
-    
     This blog will guide you on generating PDF files using TCPDF in Laravel 11 and help you add this functionality to your future projects.TCPDF is a well-established library with comprehensive documentation. Here’s a tutorial on generating PDFs using TCPDF in Laravel 11.
 
 **Table of Content**
